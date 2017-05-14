@@ -1,9 +1,9 @@
 # MyCinema
 
--Nama lengkap : Aisyatush Shofiah
--Kelas / No urut : XIRPL2 / 01
--NIS : 4654/1373.070
--Angkatan : 24
+1. Nama lengkap : Aisyatush Shofiah
+2. Kelas / No urut : XIRPL2 / 01
+3. NIS : 4654/1373.070
+4. Angkatan : 24
  SMK Telkom Malang
 
 * Alamat API yang digunakan pada Aplikasi : https://www.themoviedb.org/documentation/api
