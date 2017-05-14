@@ -12,8 +12,12 @@
 Screenshot dari Aplikasi
 
 
-![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-19-27.png "") 
+![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-19-27.png "")
+
 ![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-19-33.png "")
-![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-19-49.png "") 
+
+![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-19-49.png "")
+
 ![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-20-13.png "")
+
 ![ScreenShoot](https://github.com/ai2025/MyCinema/blob/master/Screenshot_2017-05-14-23-20-17.png "")
